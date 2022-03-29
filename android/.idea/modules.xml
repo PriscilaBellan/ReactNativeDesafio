@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/react_native.iml" filepath="$PROJECT_DIR$/.idea/modules/react_native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/react_native.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/react_native.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-556806190/react_native.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-556806190/react_native.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1560056214/react_native.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1560056214/react_native.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
